@@ -1,2 +1,2 @@
-* Tempo gasto: 4 horas.
-URL (https://landingpagetst.netlify.app/)
+* Tempo gasto: 3 horas.
+* URL (https://landingpagetst.netlify.app/)
